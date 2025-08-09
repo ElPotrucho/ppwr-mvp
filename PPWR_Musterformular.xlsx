@@ -1,0 +1,4 @@
+Verpackungstyp,RAM-Kategorie,Material,Gewicht,Gewichtseinheit,Menge (Stück/Jahr),Reuse-geeignet,Gewichtsdaten valide?
+Topseal-Schale,Retail,Kunststoff,12,g,100000,nein,ja
+EPS-Kiste,Mobility,Kunststoff,800,g,5000,ja,ja
+Glas (Konfitüre),Retail,Glas,250,g,20000,nein,nein
